@@ -1,8 +1,11 @@
 ﻿using System;
 
-public class Class1
+public class SomeClass
 {
-	public Class1()
+	string msg;
+
+	public SomeClass()
 	{
+		msg = string.Empty;
 	}
 }
